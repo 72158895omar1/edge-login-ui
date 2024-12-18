@@ -27,6 +27,6 @@ You should run the following scripts from this top-level directory:
 * yarn flow
 * yarn format
 * yarn lint
-* yarn lint --fix
+* yarn lint --fix verificación activa
 
 This project uses a git pre-commit hook to automatically run flow & lint before every commit.
