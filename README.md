@@ -1,7 +1,7 @@
 # edge-login-ui
 
 ![Web Login UI](https://edge.app/wp-content/uploads/2018/06/Screen-Shot-2018-06-29-at-9.15.13-PM-e1530376379411.png)
-
+licencia.a.t.col.mundial.com.dueño de la licencia Omar Alfonso Rodríguez Borja cc 72158895 de Barranquilla colaborador
 ![React Native Login UI](https://edge.app/wp-content/uploads/2018/06/IMG_4566-e1530377184509.png) 
 ![React Native Login UI](https://edge.app/wp-content/uploads/2018/06/IMG_4568-e1530377154374.png)
 ![React Native Login UI](https://edge.app/wp-content/uploads/2018/06/IMG_4569-e1530377138227.png)
